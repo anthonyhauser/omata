@@ -1,0 +1,1796 @@
+[
+    {
+        "platform": "unknown",
+        "account": "unknown",
+        "product_type": "cigarettes",
+        "brand_name": "Marlboro",
+        "marketing_strategy": "product placement",
+        "message": {
+            "type": "lifestyle promotion",
+            "content": "casual, relaxed setting with coffee"
+        },
+        "sentiment": "neutral",
+        "characteristics": {
+            "composition": "static",
+            "language": "english",
+            "date": "unknown",
+            "tone": "casual",
+            "slogan": "unknown",
+            "hashtags": "unknown",
+            "warnings": "unknown",
+            "location": "indoor, possibly a home or cafe",
+            "colors": "warm tones, browns, oranges",
+            "people": {
+                "number": 0,
+                "age": "unknown",
+                "gender": "unknown"
+            },
+            "product_placement": "foreground",
+            "indications_advertisement_CH": "unknown",
+            "other": "presence of a lighter and oranges, creating a cozy atmosphere"
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "1.jpg"
+    },
+    {
+        "platform": "unknown",
+        "account": "unknown",
+        "product_type": "cigarettes",
+        "brand_name": "unknown",
+        "marketing_strategy": "product placement",
+        "message": {
+            "type": "lifestyle promotion",
+            "content": "association with leisurely breakfast"
+        },
+        "sentiment": "neutral",
+        "characteristics": {
+            "composition": "static",
+            "language": "english",
+            "date": "unknown",
+            "tone": "casual",
+            "slogan": "unknown",
+            "hashtags": "unknown",
+            "warnings": "unknown",
+            "location": "indoor, possibly a home or cafe",
+            "colors": "brown, white, red",
+            "people": {
+                "number": 0,
+                "age": "unknown",
+                "gender": "unknown"
+            },
+            "product_placement": "foreground",
+            "indications_advertisement_CH": "unknown",
+            "other": "The image features a cozy breakfast setting with croissants and a newspaper, subtly including cigarette packs in the composition."
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "14.jpg"
+    },
+    {
+        "platform": "unknown",
+        "account": "unknown",
+        "product_type": "nicotine pouches",
+        "brand_name": "Velo",
+        "marketing_strategy": "direct advertising, lifestyle promotion",
+        "message": {
+            "type": "health allegations, product plus-value",
+            "content": "You've got Velo"
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "German, French, Italian",
+            "date": "unknown",
+            "tone": "inspirational",
+            "slogan": "You've got Velo",
+            "hashtags": "unknown",
+            "warnings": "Dieses Produkt enthält Nikotin und macht abhängig. Ce produit contient de la nicotine et crée une dépendance. Questo prodotto contiene della nicotina e crea dipendenza.",
+            "location": "mountainous area, possibly Alps",
+            "colors": "blue, white, black",
+            "people": {
+                "number": 1,
+                "age": "25-35",
+                "gender": "male"
+            },
+            "product_placement": "foreground",
+            "indications_advertisement_CH": "warnings in multiple Swiss languages (German, French, Italian)",
+            "other": "The image features a young man in a casual, outdoor setting with mountains in the background, emphasizing an active, adventurous lifestyle."
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "9.jpg"
+    },
+    {
+        "platform": "unknown",
+        "account": "unknown",
+        "product_type": "cigarettes",
+        "brand_name": "Marlboro",
+        "marketing_strategy": "events, brand extension",
+        "message": {
+            "type": "lifestyle promotion",
+            "content": "Don't be a Maybe"
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "english",
+            "date": "unknown",
+            "tone": "inspirational",
+            "slogan": "Don't be a Maybe",
+            "hashtags": "unknown",
+            "warnings": "unknown",
+            "location": "event venue",
+            "colors": "purple, black, white",
+            "people": {
+                "number": 1,
+                "age": "unknown",
+                "gender": "male"
+            },
+            "product_placement": "background",
+            "indications_advertisement_CH": "unknown",
+            "other": "DJ booth branding"
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "20.jpg"
+    },
+    {
+        "platform": "newspaper",
+        "account": "unknown",
+        "product_type": "cigarettes",
+        "brand_name": "unknown",
+        "marketing_strategy": "direct advertising",
+        "message": {
+            "type": "health warnings",
+            "content": "Rauchen fügt ihnen und den Menschen in ihrer Umgebung erheblichen Schaden zu. Fumer nuit gravement à votre santé et à celle de votre entourage. Il fumo danneggia gravemente te e chi ti sta intorno."
+        },
+        "sentiment": "negative",
+        "characteristics": {
+            "composition": "static",
+            "language": "German, French, Italian",
+            "date": "unknown",
+            "tone": "serious",
+            "slogan": "unknown",
+            "hashtags": "unknown",
+            "warnings": "Rauchen fügt ihnen und den Menschen in ihrer Umgebung erheblichen Schaden zu. Fumer nuit gravement à votre santé et à celle de votre entourage. Il fumo danneggia gravemente te e chi ti sta intorno.",
+            "location": "unknown",
+            "colors": "yellow, red",
+            "people": {
+                "number": 0,
+                "age": "unknown",
+                "gender": "unknown"
+            },
+            "product_placement": "foreground",
+            "indications_advertisement_CH": "The warnings are in German, French, and Italian, indicating targeting towards a Swiss audience.",
+            "other": "The image includes a sausage, which might be used metaphorically to discuss health impacts."
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "41.jpg"
+    },
+    {
+        "platform": "unknown",
+        "account": "unknown",
+        "product_type": "heated tobacco products",
+        "brand_name": "IQOS",
+        "marketing_strategy": "product placement",
+        "message": {
+            "type": "brand visibility",
+            "content": "IQOS logo prominently displayed inside a bar"
+        },
+        "sentiment": "neutral",
+        "characteristics": {
+            "composition": "static",
+            "language": "unknown",
+            "date": "unknown",
+            "tone": "casual",
+            "slogan": "unknown",
+            "hashtags": "unknown",
+            "warnings": "unknown",
+            "location": "indoor bar",
+            "colors": "brown, red, white, blue",
+            "people": {
+                "number": "multiple",
+                "age": "unknown",
+                "gender": "unknown"
+            },
+            "product_placement": "background",
+            "indications_advertisement_CH": "unknown",
+            "other": "The image shows a bar setting with the IQOS logo visible on a digital display."
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "3.jpg"
+    },
+    {
+        "platform": "unknown",
+        "account": "unknown",
+        "product_type": "cigarettes",
+        "brand_name": "Chesterfield",
+        "marketing_strategy": "giveaways, direct advertising",
+        "message": {
+            "type": "product plus-value",
+            "content": "Finde ein 100% WIN Päckli und wähle deinen Preis aus"
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "German",
+            "date": "unknown",
+            "tone": "promotional",
+            "slogan": "100% WIN",
+            "hashtags": "unknown",
+            "warnings": "unknown",
+            "location": "unknown",
+            "colors": "orange, white",
+            "people": {
+                "number": 0,
+                "age": "unknown",
+                "gender": "unknown"
+            },
+            "product_placement": "main element",
+            "indications_advertisement_CH": "unknown",
+            "other": "The image features a pack of Chesterfield cigarettes with a promotional message encouraging viewers to find a winning pack and choose their prize."
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "19.jpg"
+    },
+    {
+        "platform": "unknown",
+        "account": "unknown",
+        "product_type": "unknown",
+        "brand_name": "unknown",
+        "marketing_strategy": "unknown",
+        "message": {
+            "type": "unknown",
+            "content": "unknown"
+        },
+        "sentiment": "neutral",
+        "characteristics": {
+            "composition": "static",
+            "language": "Chinese",
+            "date": "unknown",
+            "tone": "casual",
+            "slogan": "unknown",
+            "hashtags": "unknown",
+            "warnings": "unknown",
+            "location": "unknown",
+            "colors": "brown, green, white",
+            "people": {
+                "number": 2,
+                "age": "unknown",
+                "gender": "unknown"
+            },
+            "product_placement": "unknown",
+            "indications_advertisement_CH": "unknown",
+            "other": "The image features two people having a meal with soup and beer, reading a newspaper."
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "12.png"
+    },
+    {
+        "platform": "unknown",
+        "account": "Lucky Strike",
+        "product_type": "cigarettes",
+        "brand_name": "Lucky Strike",
+        "marketing_strategy": "lifestyle promotion",
+        "message": {
+            "type": "health warnings",
+            "content": "Rauchen fügt Ihnen und den Menschen in Ihrer Umgebung erheblichen Schaden zu. Fumer nuit gravement à votre santé et à celle de votre entourage. Il fumo danneggia gravemente te e chi ti sta intorno."
+        },
+        "sentiment": "neutral",
+        "characteristics": {
+            "composition": "static",
+            "language": "german, french, italian",
+            "date": "unknown",
+            "tone": "serious",
+            "slogan": "FORGET REALITY, ALWAYS TRUE",
+            "hashtags": "unknown",
+            "warnings": "Rauchen ist tödlich",
+            "location": "unknown",
+            "colors": "yellow, brown, blue",
+            "people": {
+                "number": 3,
+                "age": "20-30",
+                "gender": "male"
+            },
+            "product_placement": "background",
+            "indications_advertisement_CH": "yes, warnings in multiple Swiss languages",
+            "other": "unknown"
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "36.jpg"
+    },
+    {
+        "platform": "Instagram",
+        "account": "moiramusi0",
+        "product_type": "nicotine pouches",
+        "brand_name": "Velo",
+        "marketing_strategy": "influencer marketing, lifestyle promotion",
+        "message": {
+            "type": "lifestyle promotion",
+            "content": "#youvegotvelo #veloswitzerland #velo #lovevelo #itertrip #onlygoodvibes Paid Partnership with Velo"
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "English, German, French, Italian",
+            "date": "December 22, 2022",
+            "tone": "joyful, energetic",
+            "slogan": "unknown",
+            "hashtags": "#youvegotvelo #veloswitzerland #velo #lovevelo #itertrip #onlygoodvibes",
+            "warnings": "Dieses Produkt enthält Nikotin und macht abhängig. Ce produit contient de la nicotine et crée une dépendance. Questo prodotto contiene della nicotina e crea dipendenza.",
+            "location": "beach",
+            "colors": "blue, yellow, green",
+            "people": {
+                "number": 2,
+                "age": "25-35",
+                "gender": "female, male"
+            },
+            "product_placement": "unknown",
+            "indications_advertisement_CH": "warnings in German, French, and Italian",
+            "other": "unknown"
+        },
+        "engagement_metrics": {
+            "likes": "400+",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "22.PNG"
+    },
+    {
+        "platform": "unknown",
+        "account": "unknown",
+        "product_type": "e-cigarettes",
+        "brand_name": "Logic",
+        "marketing_strategy": "direct advertising",
+        "message": {
+            "type": "lifestyle promotion",
+            "content": "CLICK IT. VAPE IT. LOVE IT."
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "english",
+            "date": "unknown",
+            "tone": "enticing",
+            "slogan": "CLICK IT. VAPE IT. LOVE IT.",
+            "hashtags": "unknown",
+            "warnings": "Ce produit contient de la nicotine et crée une dépendance.",
+            "location": "unknown",
+            "colors": "white, black, yellow, pink",
+            "people": {
+                "number": 0,
+                "age": "unknown",
+                "gender": "unknown"
+            },
+            "product_placement": "main element",
+            "indications_advertisement_CH": "yes",
+            "other": "The image is a street advertisement for an e-cigarette product."
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "18.jpg"
+    },
+    {
+        "platform": "unknown",
+        "account": "unknown",
+        "product_type": "e-cigarettes",
+        "brand_name": "Hyper Pro",
+        "marketing_strategy": "direct advertising",
+        "message": {
+            "type": "product plus-value",
+            "content": "Meilleure satisfaction dès la première bouffée"
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "french",
+            "date": "unknown",
+            "tone": "serious",
+            "slogan": "Meilleure satisfaction dès la première bouffée",
+            "hashtags": "unknown",
+            "warnings": "unknown",
+            "location": "unknown",
+            "colors": "blue, black, white",
+            "people": {
+                "number": 0,
+                "age": "unknown",
+                "gender": "unknown"
+            },
+            "product_placement": "foreground",
+            "indications_advertisement_CH": "unknown",
+            "other": "The image features a close-up of the e-cigarette product highlighting its features and design."
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "38.png"
+    },
+    {
+        "platform": "unknown",
+        "account": "Marlboro",
+        "product_type": "cigarettes",
+        "brand_name": "Marlboro",
+        "marketing_strategy": "lifestyle promotion, direct advertising",
+        "message": {
+            "type": "lifestyle promotion",
+            "content": "A MAYBE HAS NO FUN, Don't be a Maybe, BE"
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "english, german, french, italian",
+            "date": "unknown",
+            "tone": "inspirational",
+            "slogan": "A MAYBE HAS NO FUN, Don't be a Maybe, BE",
+            "hashtags": "unknown",
+            "warnings": "Rauchen fügt Ihnen und den Menschen in Ihrer Umgebung erheblichen Schaden zu. Fumer nuit gravement à votre santé et à celle de votre entourage. Il fumo danneggia gravemente te e chi ti sta intorno.",
+            "location": "unknown",
+            "colors": "beige, red, grey",
+            "people": {
+                "number": 3,
+                "age": "20-30",
+                "gender": "mixed"
+            },
+            "product_placement": "background",
+            "indications_advertisement_CH": "unknown",
+            "other": "The image depicts young adults engaging in playful activities, which suggests an association between the brand and a youthful, adventurous lifestyle."
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "40.png"
+    },
+    {
+        "platform": "unknown",
+        "account": "unknown",
+        "product_type": "cigarettes",
+        "brand_name": "Lucky Strike",
+        "marketing_strategy": "lifestyle promotion",
+        "message": {
+            "type": "lifestyle promotion",
+            "content": "FORGET REALITY, Always true"
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "English, German, French, Italian",
+            "date": "unknown",
+            "tone": "inspirational",
+            "slogan": "FORGET REALITY, Always true",
+            "hashtags": "unknown",
+            "warnings": "Rauchen fügt Ihnen und den Menschen in Ihrer Umgebung erheblichen Schaden zu. Fumer nuit gravement à votre santé et à celle de votre entourage. Il fumo danneggia gravemente te e chi ti sta intorno.",
+            "location": "unknown",
+            "colors": "brown, yellow, blue",
+            "people": {
+                "number": 2,
+                "age": "20-30",
+                "gender": "male"
+            },
+            "product_placement": "background",
+            "indications_advertisement_CH": "warnings in German, French, Italian",
+            "other": "The image features a scenic backdrop with two young men, one smoking."
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "39.jpg"
+    },
+    {
+        "platform": "unknown",
+        "account": "unknown",
+        "product_type": "heated tobacco products",
+        "brand_name": "IQOS",
+        "marketing_strategy": "direct advertising, price promotion",
+        "message": {
+            "type": "product plus-value, informations",
+            "content": "Exclusive offer including new tobacco classic, IQOS ILUMA ONE + 4 packs for free*"
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "english, german, french, italian",
+            "date": "unknown",
+            "tone": "promotional",
+            "slogan": "Exclusive offer",
+            "hashtags": "unknown",
+            "warnings": "Dieses Tabakerzeugnis kann Ihre Gesundheit schädigen und macht abhängig. Ce produit du tabac peut nuire à votre santé et crée une dépendance. Questo prodotto del tabacco può nuocere alla tua salute e provoca dipendenza.",
+            "location": "unknown",
+            "colors": "white, grey, blue, green",
+            "people": {
+                "number": 0,
+                "age": "unknown",
+                "gender": "unknown"
+            },
+            "product_placement": "foreground",
+            "indications_advertisement_CH": "price in CHF",
+            "other": "Packaging and device displayed prominently"
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "36.PNG"
+    },
+    {
+        "platform": "Instagram",
+        "account": "unknown",
+        "product_type": "unknown",
+        "brand_name": "unknown",
+        "marketing_strategy": "unknown",
+        "message": {
+            "type": "unknown",
+            "content": "unknown"
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "German",
+            "date": "unknown",
+            "tone": "casual",
+            "slogan": "unknown",
+            "hashtags": "unknown",
+            "warnings": "unknown",
+            "location": "inside a car",
+            "colors": "black, blue, silver",
+            "people": {
+                "number": 1,
+                "age": "20-30",
+                "gender": "female"
+            },
+            "product_placement": "unknown",
+            "indications_advertisement_CH": "unknown",
+            "other": "unknown"
+        },
+        "engagement_metrics": {
+            "likes": 684,
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "26.png"
+    },
+    {
+        "platform": "unknown",
+        "account": "unknown",
+        "product_type": "cigarettes",
+        "brand_name": "unknown",
+        "marketing_strategy": "unknown",
+        "message": {
+            "type": "unknown",
+            "content": "unknown"
+        },
+        "sentiment": "neutral",
+        "characteristics": {
+            "composition": "static",
+            "language": "unknown",
+            "date": "unknown",
+            "tone": "casual",
+            "slogan": "unknown",
+            "hashtags": "unknown",
+            "warnings": "unknown",
+            "location": "indoor, possibly a home",
+            "colors": "brown, grey, white",
+            "people": {
+                "number": 1,
+                "age": "20-30",
+                "gender": "male"
+            },
+            "product_placement": "foreground",
+            "indications_advertisement_CH": "unknown",
+            "other": "The image features a man interacting with a dog in a living room setting, with a table displaying various items including a pack of cigarettes."
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "11.jpg"
+    },
+    {
+        "platform": "Instagram",
+        "account": "moiramusio",
+        "product_type": "nicotine pouches",
+        "brand_name": "Velo",
+        "marketing_strategy": "influencer marketing, event marketing",
+        "message": {
+            "type": "lifestyle promotion",
+            "content": "Incredible Tomorrowland experience with amazing people"
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "english, french, german, italian",
+            "date": "July 26, 2022",
+            "tone": "friendly, celebratory",
+            "slogan": "unknown",
+            "hashtags": "unknown",
+            "warnings": "Dieses Produkt enthält Nikotin und macht abhängig. Ce produit contient de la nicotine et crée une dépendance. Questo prodotto contiene della nicotina e crea dipendenza.",
+            "location": "Tomorrowland",
+            "colors": "blue, white, green, various",
+            "people": {
+                "number": 5,
+                "age": "20-35",
+                "gender": "mixed"
+            },
+            "product_placement": "unknown",
+            "indications_advertisement_CH": "warnings in multiple languages including German, French, and Italian",
+            "other": "The image is taken at a music festival, likely used to associate the brand with fun and youthful experiences."
+        },
+        "engagement_metrics": {
+            "likes": 1741,
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "27.png"
+    },
+    {
+        "platform": "unknown",
+        "account": "unknown",
+        "product_type": "hookah",
+        "brand_name": "unknown",
+        "marketing_strategy": "product placement",
+        "message": {
+            "type": "lifestyle promotion",
+            "content": "enjoyment of hookah in a social setting"
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "unknown",
+            "date": "unknown",
+            "tone": "casual",
+            "slogan": "unknown",
+            "hashtags": "unknown",
+            "warnings": "unknown",
+            "location": "indoor, likely a bar or lounge",
+            "colors": "warm tones, amber, gold",
+            "people": {
+                "number": 0,
+                "age": "unknown",
+                "gender": "unknown"
+            },
+            "product_placement": "foreground",
+            "indications_advertisement_CH": "unknown",
+            "other": "smoke visible, indicating use"
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "21.jpg"
+    },
+    {
+        "platform": "unknown",
+        "account": "unknown",
+        "product_type": "e-cigarettes",
+        "brand_name": "HEETS",
+        "marketing_strategy": "product placement",
+        "message": {
+            "type": "informations",
+            "content": "brand logo visible on e-cigarette"
+        },
+        "sentiment": "neutral",
+        "characteristics": {
+            "composition": "static",
+            "language": "unknown",
+            "date": "unknown",
+            "tone": "casual",
+            "slogan": "unknown",
+            "hashtags": "unknown",
+            "warnings": "unknown",
+            "location": "unknown",
+            "colors": "blue, brown, black, teal",
+            "people": {
+                "number": 0,
+                "age": "unknown",
+                "gender": "unknown"
+            },
+            "product_placement": "foreground",
+            "indications_advertisement_CH": "unknown",
+            "other": "The image includes a camera, sunglasses, a cup of coffee, and a photograph, suggesting a casual or artistic setting."
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "16.jpg"
+    },
+    {
+        "platform": "Instagram",
+        "account": "jade.one.love",
+        "product_type": "unknown",
+        "brand_name": "unknown",
+        "marketing_strategy": "influencer marketing",
+        "message": {
+            "type": "lifestyle promotion",
+            "content": "Non esiste vento favorevole... per il marinaio che non sa dove andare."
+        },
+        "sentiment": "neutral",
+        "characteristics": {
+            "composition": "static",
+            "language": "italian",
+            "date": "September 5, 2022",
+            "tone": "artistic",
+            "slogan": "Non esiste vento favorevole... per il marinaio che non sa dove andare.",
+            "hashtags": "unknown",
+            "warnings": "none",
+            "location": "unknown",
+            "colors": "grey, white, brown",
+            "people": {
+                "number": 1,
+                "age": "20-30",
+                "gender": "female"
+            },
+            "product_placement": "unknown",
+            "indications_advertisement_CH": "unknown",
+            "other": "The image features a woman holding a pineapple with smoke around it, which could symbolically represent flavor or aroma."
+        },
+        "engagement_metrics": {
+            "likes": 137,
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "28.png"
+    },
+    {
+        "platform": "unknown",
+        "account": "unknown",
+        "product_type": "unknown",
+        "brand_name": "unknown",
+        "marketing_strategy": "unknown",
+        "message": {
+            "type": "unknown",
+            "content": "unknown"
+        },
+        "sentiment": "neutral",
+        "characteristics": {
+            "composition": "static",
+            "language": "unknown",
+            "date": "unknown",
+            "tone": "serious",
+            "slogan": "unknown",
+            "hashtags": "unknown",
+            "warnings": "unknown",
+            "location": "under a bridge with graffiti",
+            "colors": "dark tones, grey, black",
+            "people": {
+                "number": 2,
+                "age": "unknown",
+                "gender": "male"
+            },
+            "product_placement": "unknown",
+            "indications_advertisement_CH": "unknown",
+            "other": "The image features two individuals standing near cars under a graffiti-covered bridge, suggesting a casual or urban setting."
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "6.jpg"
+    },
+    {
+        "platform": "unknown",
+        "account": "IQOS",
+        "product_type": "heat-not-burn tobacco product",
+        "brand_name": "IQOS",
+        "marketing_strategy": "direct advertising, product placement",
+        "message": {
+            "type": "lifestyle promotion",
+            "content": "Hast du ein neues Parfum? Willkommen zu «Wiedersehen ohne Zigaretten-Rauchgeruch»."
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "German, French, Italian",
+            "date": "unknown",
+            "tone": "serious",
+            "slogan": "Hast du ein neues Parfum? Willkommen zu «Wiedersehen ohne Zigaretten-Rauchgeruch».",
+            "hashtags": "unknown",
+            "warnings": "Dieses Tabakerzeugnis kann Ihre Gesundheit schädigen und macht abhängig. Ce produit du tabac peut nuire à votre santé et crée une dépendance. Questo prodotto di tabacco può nuocere alla salute e provoca dipendenza.",
+            "location": "Zurich",
+            "colors": "black, white, grey",
+            "people": {
+                "number": 2,
+                "age": "40-50",
+                "gender": "male and female"
+            },
+            "product_placement": "foreground",
+            "indications_advertisement_CH": "Text in German, French, Italian; reference to Zurich",
+            "other": "The image is part of a campaign targeting adult smokers."
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "38.jpg"
+    },
+    {
+        "platform": "TikTok",
+        "account": "Glo Azerbaijan",
+        "product_type": "heated tobacco",
+        "brand_name": "Glo",
+        "marketing_strategy": "direct advertising, influencer marketing",
+        "message": {
+            "type": "product plus-value",
+            "content": "Limited edition #glo #foryoupage #tiktokazerbaijan"
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "english",
+            "date": "unknown",
+            "tone": "promotional",
+            "slogan": "unknown",
+            "hashtags": "#glo #foryoupage #tiktokazerbaijan",
+            "warnings": "unknown",
+            "location": "inside a car",
+            "colors": "blue, red, white",
+            "people": {
+                "number": 1,
+                "age": "unknown",
+                "gender": "unknown"
+            },
+            "product_placement": "foreground",
+            "indications_advertisement_CH": "unknown",
+            "other": "Packaging of the product is prominently displayed"
+        },
+        "engagement_metrics": {
+            "likes": "26.4K",
+            "comments": "164",
+            "shares": "717",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "33.png"
+    },
+    {
+        "platform": "Instagram",
+        "account": "vaustinl",
+        "product_type": "e-cigarettes",
+        "brand_name": "Geekvape",
+        "marketing_strategy": "influencer marketing, giveaways",
+        "message": {
+            "type": "product plus-value",
+            "content": "I'm giving away 10 Geekvape Aegis X Kits! Rules to participate: 1. Must be following my page @vaustinl 2. Like this post 3. Tag 2 friends in the comment section below 4. Must be of legal age to vape in your country or state On Wednesday (10/23/19) I'll announce 10 different winners here on my Instagram story at 3:00PM EST! Good luck #sponsored"
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "english",
+            "date": "October 18, 2019",
+            "tone": "promotional",
+            "slogan": "unknown",
+            "hashtags": "#sponsored",
+            "warnings": "Must be of legal age to vape in your country or state",
+            "location": "unknown",
+            "colors": "black, grey, blue",
+            "people": {
+                "number": 1,
+                "age": "20-30",
+                "gender": "male"
+            },
+            "product_placement": "foreground",
+            "indications_advertisement_CH": "unknown",
+            "other": "The individual is exhaling vapor, which visually emphasizes the use of the product."
+        },
+        "engagement_metrics": {
+            "likes": "252,068",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "25.png"
+    },
+    {
+        "platform": "TikTok",
+        "account": "unknown",
+        "product_type": "e-cigarette",
+        "brand_name": "unknown",
+        "marketing_strategy": "influencer marketing, lifestyle promotion",
+        "message": {
+            "type": "lifestyle promotion",
+            "content": "POV: on roule en Fiat 500 fourrure au guidon et avec du Aya Nakamura À Balle"
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "french",
+            "date": "2023-08-19",
+            "tone": "casual",
+            "slogan": "unknown",
+            "hashtags": "#fyp #pourtoi #copines #fiat500",
+            "warnings": "none",
+            "location": "inside a car",
+            "colors": "beige, white, pink, green",
+            "people": {
+                "number": 2,
+                "age": "20-30",
+                "gender": "female"
+            },
+            "product_placement": "foreground",
+            "indications_advertisement_CH": "unknown",
+            "other": "The image features two young women in a car, one holding an e-cigarette."
+        },
+        "engagement_metrics": {
+            "likes": "41.9K",
+            "comments": "323",
+            "shares": "105",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "30.png"
+    },
+    {
+        "platform": "unknown",
+        "account": "unknown",
+        "product_type": "cigarettes",
+        "brand_name": "Marlboro",
+        "marketing_strategy": "product placement",
+        "message": {
+            "type": "informations",
+            "content": "brand visibility"
+        },
+        "sentiment": "neutral",
+        "characteristics": {
+            "composition": "static",
+            "language": "French",
+            "date": "unknown",
+            "tone": "casual",
+            "slogan": "unknown",
+            "hashtags": "unknown",
+            "warnings": "unknown",
+            "location": "indoor, possibly a bar or pub",
+            "colors": "brown, green, white",
+            "people": {
+                "number": 0,
+                "age": "unknown",
+                "gender": "unknown"
+            },
+            "product_placement": "background",
+            "indications_advertisement_CH": "CHF pricing on ticket, suggesting Swiss location",
+            "other": "Presence of alcohol brand logos and a ticket for an event"
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "17.JPG"
+    },
+    {
+        "platform": "TikTok",
+        "account": "unknown",
+        "product_type": "unknown",
+        "brand_name": "unknown",
+        "marketing_strategy": "unknown",
+        "message": {
+            "type": "lifestyle promotion",
+            "content": "Pov t'arrives plus à écouter cette musique car tu t'es lassé de la personne à qui tu pensais en l'écoutant"
+        },
+        "sentiment": "neutral",
+        "characteristics": {
+            "composition": "static",
+            "language": "french",
+            "date": "unknown",
+            "tone": "emotional",
+            "slogan": "unknown",
+            "hashtags": "unknown",
+            "warnings": "unknown",
+            "location": "indoor, likely a bedroom",
+            "colors": "blue, black, white",
+            "people": {
+                "number": 1,
+                "age": "unknown",
+                "gender": "female"
+            },
+            "product_placement": "unknown",
+            "indications_advertisement_CH": "unknown",
+            "other": "The image features a Spotify interface suggesting music listening."
+        },
+        "engagement_metrics": {
+            "likes": "17.8K",
+            "comments": "146",
+            "shares": "712",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "24.png"
+    },
+    {
+        "platform": "unknown",
+        "account": "unknown",
+        "product_type": "cigarettes",
+        "brand_name": "Chesterfield",
+        "marketing_strategy": "direct advertising, promotional contest",
+        "message": {
+            "type": "product plus-value",
+            "content": "Create and Win, promotional price of CHF 7.20"
+        },
+        "sentiment": "neutral",
+        "characteristics": {
+            "composition": "static",
+            "language": "english",
+            "date": "unknown",
+            "tone": "promotional",
+            "slogan": "Create and Win",
+            "hashtags": "unknown",
+            "warnings": "unknown",
+            "location": "point of sale",
+            "colors": "brown, black, white, red",
+            "people": {
+                "number": 0,
+                "age": "unknown",
+                "gender": "unknown"
+            },
+            "product_placement": "foreground",
+            "indications_advertisement_CH": "price in CHF, Swiss products nearby",
+            "other": "presence of other snack products and price tags"
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "13.jpg"
+    },
+    {
+        "platform": "Instagram",
+        "account": "unknown",
+        "product_type": "cigars",
+        "brand_name": "unknown",
+        "marketing_strategy": "lifestyle promotion",
+        "message": {
+            "type": "lifestyle promotion",
+            "content": "#vacation #chill #enjoy #time #moment #life #style #tattoo #wine #cigars #cazal #breitling #iqos_friends #myGALAlife"
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "english",
+            "date": "unknown",
+            "tone": "relaxed, enjoyable",
+            "slogan": "unknown",
+            "hashtags": "#vacation #chill #enjoy #time #moment #life #style #tattoo #wine #cigars #cazal #breitling #iqos_friends #myGALAlife",
+            "warnings": "none",
+            "location": "Malaga, Spain",
+            "colors": "beige, white, brown, green",
+            "people": {
+                "number": 1,
+                "age": "30-40",
+                "gender": "male"
+            },
+            "product_placement": "foreground",
+            "indications_advertisement_CH": "none",
+            "other": "The individual is depicted enjoying a cigar and wine, suggesting a relaxed lifestyle."
+        },
+        "engagement_metrics": {
+            "likes": 46,
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "35.png"
+    },
+    {
+        "platform": "Instagram",
+        "account": "joshtyrell",
+        "product_type": "nicotine pouches",
+        "brand_name": "Velo",
+        "marketing_strategy": "influencer marketing, event marketing",
+        "message": {
+            "type": "lifestyle promotion",
+            "content": "A moment, a love, a dream, aloud, won’t stop 'til it’s over. Magic and unforgettable moments with the best team ever."
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "english",
+            "date": "April 10",
+            "tone": "inspirational",
+            "slogan": "unknown",
+            "hashtags": "#velo.switzerland #capricesfestival",
+            "warnings": "Dieses Produkt enthält Nikotin und macht abhängig. Ce produit contient de la nicotine et crée une dépendance. Questo prodotto contiene della nicotina e crea dipendenza.",
+            "location": "unknown",
+            "colors": "various",
+            "people": {
+                "number": "multiple",
+                "age": "unknown",
+                "gender": "mixed"
+            },
+            "product_placement": "hidden",
+            "indications_advertisement_CH": "warnings in multiple languages including German, French, and Italian, suggesting targeting towards a Swiss audience",
+            "other": "presence of a large group celebrating"
+        },
+        "engagement_metrics": {
+            "likes": "1506",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "23.PNG"
+    },
+    {
+        "platform": "unknown",
+        "account": "unknown",
+        "product_type": "heated tobacco products",
+        "brand_name": "glo",
+        "marketing_strategy": "direct advertising, product placement",
+        "message": {
+            "type": "informations, product plus-value",
+            "content": "special offer, product features, price information"
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "French, German, Italian",
+            "date": "unknown",
+            "tone": "promotional",
+            "slogan": "OFFRE SPÉCIALE, NOUVEAU TABAC DE QUALITÉ PREMIUM",
+            "hashtags": "unknown",
+            "warnings": "Dieses Tabakerzeugnis kann Ihre Gesundheit schädigen und macht süchtig. Ce produit du tabac peut nuire à votre santé et crée une dépendance. Questo prodotto del tabacco può nuocere alla tua salute e provoca dipendenza.",
+            "location": "unknown",
+            "colors": "blue, purple, yellow, orange",
+            "people": {
+                "number": 0,
+                "age": "unknown",
+                "gender": "unknown"
+            },
+            "product_placement": "foreground, main element",
+            "indications_advertisement_CH": "Price in CHF, Swiss website reference",
+            "other": "Multiple product options displayed"
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "37.PNG"
+    },
+    {
+        "platform": "Nau.ch",
+        "account": "unknown",
+        "product_type": "e-cigarettes",
+        "brand_name": "IQOS",
+        "marketing_strategy": "direct advertising, product placement",
+        "message": {
+            "type": "informations",
+            "content": "product packaging, instructions"
+        },
+        "sentiment": "neutral",
+        "characteristics": {
+            "composition": "static",
+            "language": "german",
+            "date": "2023-04-26",
+            "tone": "informative",
+            "slogan": "TOGETHER. FORWARD.",
+            "hashtags": "unknown",
+            "warnings": "unknown",
+            "location": "unknown",
+            "colors": "grey, white, green",
+            "people": {
+                "number": 1,
+                "age": "unknown",
+                "gender": "unknown"
+            },
+            "product_placement": "foreground",
+            "indications_advertisement_CH": "unknown",
+            "other": "unknown"
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "0",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "41.png"
+    },
+    {
+        "platform": "TikTok",
+        "account": "yourtipartist",
+        "product_type": "cigarette filters",
+        "brand_name": "Mercedes",
+        "marketing_strategy": "influencer marketing, viral marketing",
+        "message": {
+            "type": "informations",
+            "content": "Episode 3 | How to make a huge filter #huge #filter"
+        },
+        "sentiment": "neutral",
+        "characteristics": {
+            "composition": "static",
+            "language": "english",
+            "date": "unknown",
+            "tone": "informative",
+            "slogan": "Take 5 Mercedes Filter",
+            "hashtags": "#huge #filter",
+            "warnings": "none",
+            "location": "unknown",
+            "colors": "blue, white",
+            "people": {
+                "number": 1,
+                "age": "unknown",
+                "gender": "unknown"
+            },
+            "product_placement": "foreground",
+            "indications_advertisement_CH": "unknown",
+            "other": "none"
+        },
+        "engagement_metrics": {
+            "likes": "51.6K",
+            "comments": "157",
+            "shares": "unknown",
+            "views": "4015",
+            "followers": "unknown"
+        },
+        "image_file": "32.png"
+    },
+    {
+        "platform": "unknown",
+        "account": "IQOS",
+        "product_type": "heat-not-burn tobacco product",
+        "brand_name": "IQOS",
+        "marketing_strategy": "product placement, events",
+        "message": {
+            "type": "lifestyle promotion",
+            "content": "#IQOSphere"
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "english",
+            "date": "unknown",
+            "tone": "professional",
+            "slogan": "unknown",
+            "hashtags": "#IQOSphere",
+            "warnings": "unknown",
+            "location": "unknown",
+            "colors": "blue, red, white",
+            "people": {
+                "number": 0,
+                "age": "unknown",
+                "gender": "unknown"
+            },
+            "product_placement": "foreground",
+            "indications_advertisement_CH": "unknown",
+            "other": "The image features a Ferrari Formula 1 car displayed at an event, possibly a trade show or exhibition, promoting IQOS."
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "5.jpg"
+    },
+    {
+        "platform": "unknown",
+        "account": "unknown",
+        "product_type": "cigarettes",
+        "brand_name": "Winston",
+        "marketing_strategy": "event marketing, product placement",
+        "message": {
+            "type": "lifestyle promotion",
+            "content": "Freedom Snowfest event promotion"
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "english",
+            "date": "unknown",
+            "tone": "festive",
+            "slogan": "Freedom Snowfest",
+            "hashtags": "unknown",
+            "warnings": "Rauchen kann tödlich sein",
+            "location": "snow festival",
+            "colors": "white, blue, red",
+            "people": {
+                "number": 7,
+                "age": "unknown",
+                "gender": "mixed"
+            },
+            "product_placement": "background",
+            "indications_advertisement_CH": "German warning label",
+            "other": "presence of snow and winter sports attire"
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "8.jpg"
+    },
+    {
+        "platform": "TikTok",
+        "account": "unknown",
+        "product_type": "vape",
+        "brand_name": "Glugbar",
+        "marketing_strategy": "influencer marketing, viral marketing",
+        "message": {
+            "type": "lifestyle promotion",
+            "content": "Glugbar mango pineapple"
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "english",
+            "date": "2023-11-03",
+            "tone": "casual",
+            "slogan": "Glugbar mango pineapple",
+            "hashtags": "#ASMRrasmsounds #vape #fyp",
+            "warnings": "none",
+            "location": "unknown",
+            "colors": "green, purple, pink",
+            "people": {
+                "number": 1,
+                "age": "unknown",
+                "gender": "unknown"
+            },
+            "product_placement": "foreground",
+            "indications_advertisement_CH": "unknown",
+            "other": "none"
+        },
+        "engagement_metrics": {
+            "likes": "1.7M",
+            "comments": "10.8K",
+            "shares": "unknown",
+            "views": "85.9K",
+            "followers": "unknown"
+        },
+        "image_file": "31.jpg"
+    },
+    {
+        "platform": "unknown",
+        "account": "unknown",
+        "product_type": "e-cigarette",
+        "brand_name": "Aspire",
+        "marketing_strategy": "product placement",
+        "message": {
+            "type": "informations",
+            "content": "brand visibility"
+        },
+        "sentiment": "neutral",
+        "characteristics": {
+            "composition": "static",
+            "language": "unknown",
+            "date": "unknown",
+            "tone": "casual",
+            "slogan": "unknown",
+            "hashtags": "unknown",
+            "warnings": "unknown",
+            "location": "unknown",
+            "colors": "black, white, brown",
+            "people": {
+                "number": 0,
+                "age": "unknown",
+                "gender": "unknown"
+            },
+            "product_placement": "foreground",
+            "indications_advertisement_CH": "unknown",
+            "other": "The image features an e-cigarette next to a coffee cup with a spoon, on a wooden table."
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "15.jpg"
+    },
+    {
+        "platform": "unknown",
+        "account": "unknown",
+        "product_type": "cigarettes",
+        "brand_name": "L&M",
+        "marketing_strategy": "product placement, events",
+        "message": {
+            "type": "lifestyle promotion",
+            "content": "social gathering, leisure activity"
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "unknown",
+            "date": "unknown",
+            "tone": "casual",
+            "slogan": "unknown",
+            "hashtags": "unknown",
+            "warnings": "unknown",
+            "location": "indoor, possibly a bar or event space",
+            "colors": "blue, white",
+            "people": {
+                "number": 2,
+                "age": "unknown",
+                "gender": "unknown"
+            },
+            "product_placement": "background",
+            "indications_advertisement_CH": "unknown",
+            "other": "The image features a foosball table with a prominent L&M logo in the background, suggesting a casual, social setting."
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "4.jpg"
+    },
+    {
+        "platform": "Instagram",
+        "account": "jade.one.love",
+        "product_type": "e-cigarettes",
+        "brand_name": "unknown",
+        "marketing_strategy": "influencer marketing, product placement",
+        "message": {
+            "type": "lifestyle promotion",
+            "content": "Moody Time - Tea Time"
+        },
+        "sentiment": "neutral",
+        "characteristics": {
+            "composition": "static",
+            "language": "english",
+            "date": "unknown",
+            "tone": "casual",
+            "slogan": "unknown",
+            "hashtags": "#MoodyTime #TeaTime",
+            "warnings": "unknown",
+            "location": "indoor, possibly a cafe or home",
+            "colors": "brown, white, beige",
+            "people": {
+                "number": 1,
+                "age": "20-30",
+                "gender": "female"
+            },
+            "product_placement": "foreground",
+            "indications_advertisement_CH": "mentions of Swiss websites and locations (e.g., veggiemoons, richy.ch, vapefactory.lausanne, curieuxeliquides, aspirecigs)",
+            "other": "The image shows a woman using an e-cigarette in a relaxed indoor setting."
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "29.png"
+    },
+    {
+        "platform": "unknown",
+        "account": "unknown",
+        "product_type": "unknown",
+        "brand_name": "unknown",
+        "marketing_strategy": "unknown",
+        "message": {
+            "type": "unknown",
+            "content": "unknown"
+        },
+        "sentiment": "neutral",
+        "characteristics": {
+            "composition": "static",
+            "language": "unknown",
+            "date": "unknown",
+            "tone": "casual",
+            "slogan": "unknown",
+            "hashtags": "unknown",
+            "warnings": "unknown",
+            "location": "urban street",
+            "colors": "red, blue, white, yellow",
+            "people": {
+                "number": 1,
+                "age": "unknown",
+                "gender": "male"
+            },
+            "product_placement": "unknown",
+            "indications_advertisement_CH": "unknown",
+            "other": "The image features a male individual exhaling smoke, sitting at a bus stop at night with dynamic city life and moving vehicles around."
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "2.jpg"
+    },
+    {
+        "platform": "unknown",
+        "account": "IQOS",
+        "product_type": "heat-not-burn tobacco product",
+        "brand_name": "IQOS",
+        "marketing_strategy": "lifestyle promotion, health allegations",
+        "message": {
+            "type": "lifestyle promotion, health allegations",
+            "content": "Nach einem Päuschen will ich nicht nach Zigarettenrauch riechen. Willkommen zu «Pausen ohne schlechten Nachgeschmack»."
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "German, French, Italian",
+            "date": "unknown",
+            "tone": "friendly",
+            "slogan": "Nach einem Päuschen will ich nicht nach Zigarettenrauch riechen.",
+            "hashtags": "unknown",
+            "warnings": "Dieses Tabakerzeugnis kann Ihre Gesundheit schädigen und macht abhängig. Ce produit du tabac peut nuire à votre santé et crée une dépendance. Questo prodotto di tabacco può nuocere alla salute e provoca dipendenza.",
+            "location": "Bern",
+            "colors": "green, blue, white, grey",
+            "people": {
+                "number": 2,
+                "age": "30-50",
+                "gender": "female"
+            },
+            "product_placement": "foreground",
+            "indications_advertisement_CH": "location (Bern), website (TryIQOS.ch), warnings in multiple Swiss languages",
+            "other": "Names of individuals (Sonia und Pina) mentioned as part of the advertisement"
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "37.jpg"
+    },
+    {
+        "platform": "unknown",
+        "account": "Marlboro",
+        "product_type": "cigarettes",
+        "brand_name": "Marlboro",
+        "marketing_strategy": "events, brand extension",
+        "message": {
+            "type": "lifestyle promotion",
+            "content": "Rauchen ist tödlich. Funken ist tödlich."
+        },
+        "sentiment": "neutral",
+        "characteristics": {
+            "composition": "static",
+            "language": "german",
+            "date": "unknown",
+            "tone": "serious",
+            "slogan": "Rauchen ist tödlich. Funken ist tödlich.",
+            "hashtags": "unknown",
+            "warnings": "Rauchen ist tödlich. Funken ist tödlich.",
+            "location": "outdoor event",
+            "colors": "red, white, black",
+            "people": {
+                "number": "multiple",
+                "age": "varied",
+                "gender": "varied"
+            },
+            "product_placement": "main element",
+            "indications_advertisement_CH": "unknown",
+            "other": "The image features a large Marlboro branding and promotional setup at an outdoor event with multiple people."
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "7.jpg"
+    },
+    {
+        "platform": "Instagram",
+        "account": "junegomezga",
+        "product_type": "cigarettes",
+        "brand_name": "Winston",
+        "marketing_strategy": "influencer marketing, lifestyle promotion",
+        "message": {
+            "type": "lifestyle promotion",
+            "content": "#StayTrueStayFree #WinstonRD"
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "spanish",
+            "date": "2017-04-14",
+            "tone": "casual",
+            "slogan": "FUMAR ES PERJUDICIAL PARA LA SALUD",
+            "hashtags": "#StayTrueStayFree #WinstonRD",
+            "warnings": "FUMAR ES PERJUDICIAL PARA LA SALUD",
+            "location": "unknown",
+            "colors": "blue, white, black",
+            "people": {
+                "number": 1,
+                "age": "20-30",
+                "gender": "male"
+            },
+            "product_placement": "foreground",
+            "indications_advertisement_CH": "unknown",
+            "other": "The individual is using a vaping device."
+        },
+        "engagement_metrics": {
+            "likes": "4789",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "34.jpg"
+    },
+    {
+        "platform": "Website",
+        "account": "La Liberté",
+        "product_type": "heat-not-burn tobacco product",
+        "brand_name": "IQOS",
+        "marketing_strategy": "direct advertising, product placement",
+        "message": {
+            "type": "health allegations, product plus-value",
+            "content": "IQOS chauffe le tabac au lieu de le brûler. Par conséquent, IQOS émet 95% de substances chimiques nocives de moins que les cigarettes."
+        },
+        "sentiment": "positive",
+        "characteristics": {
+            "composition": "static",
+            "language": "French, German, Italian",
+            "date": "unknown",
+            "tone": "informative",
+            "slogan": "IQOS chauffe le tabac au lieu de le brûler.",
+            "hashtags": "unknown",
+            "warnings": "Dieses Tabakerzeugnis kann Ihre Gesundheit schädigen und macht abhängig. Ce produit du tabac peut nuire à votre santé et crée une dépendance. Questo prodotto del tabacco può nuocere alla tua salute e provoca dipendenza.",
+            "location": "unknown",
+            "colors": "blue, red, white, gray",
+            "people": {
+                "number": 0,
+                "age": "unknown",
+                "gender": "unknown"
+            },
+            "product_placement": "main element",
+            "indications_advertisement_CH": "Swiss website, price in CHF, Swiss languages",
+            "other": "Comparison of traditional cigarette and IQOS device"
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "42.png"
+    },
+    {
+        "platform": "unknown",
+        "account": "unknown",
+        "product_type": "CBD hemp supplement",
+        "brand_name": "Pachamama",
+        "marketing_strategy": "product placement",
+        "message": {
+            "type": "health allegations",
+            "content": "full spectrum hemp extract, 750mg CBD"
+        },
+        "sentiment": "neutral",
+        "characteristics": {
+            "composition": "static",
+            "language": "english",
+            "date": "unknown",
+            "tone": "serious",
+            "slogan": "The Natural",
+            "hashtags": "unknown",
+            "warnings": "unknown",
+            "location": "unknown",
+            "colors": "black, green, gray",
+            "people": {
+                "number": 0,
+                "age": "unknown",
+                "gender": "unknown"
+            },
+            "product_placement": "foreground",
+            "indications_advertisement_CH": "unknown",
+            "other": "The product is presented in a minimalist, elegant packaging on a slate background with a blurred plant in the foreground."
+        },
+        "engagement_metrics": {
+            "likes": "unknown",
+            "comments": "unknown",
+            "shares": "unknown",
+            "views": "unknown",
+            "followers": "unknown"
+        },
+        "image_file": "10.jpg"
+    }
+]
