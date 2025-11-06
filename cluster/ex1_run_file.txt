@@ -1,0 +1,42 @@
+#!/bin/bash
+#SBATCH --job-name=temp_python
+#SBATCH --time=02:00:00
+#SBATCH --cpus-per-task=4
+#SBATCH --mem=16G
+#SBATCH --gres=gpu:1    # remove if CPU-only
+#SBATCH --pty bash      # interactive shell
+
+# ----------------------------------------
+# 1) Define project folder
+USER="ahauser6"
+PROJECT="omata"
+WORK="/work/PRTNR/UNISANTE/UNISANTE/jriou/ofsp_surveillance/"
+PATH1="/users/${USER}/${PROJECT}"
+cd ${PROJECT}
+
+# 2) Update repo
+#git pull
+
+#activate venv
+source ${WORK}/jlab_venv/bin/activate
+
+#load python
+module load gcc python cuda cudnn
+
+#run python
+python my_script.py #or srun my_script.py
+
+# commit and push changes
+#cd ${PROJECT}
+#git add *.py
+#git commit -m "Update scripts from HPC run $(date +'%Y-%m-%d %H:%M')"
+#git push
+
+
+
+
+
+
+
+
+

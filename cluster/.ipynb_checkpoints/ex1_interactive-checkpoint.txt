@@ -1,0 +1,24 @@
+#activate venv
+WORK="/work/PRTNR/UNISANTE/UNISANTE/jriou/ofsp_surveillance/"
+source ${WORK}/jlab_venv/bin/activate
+
+#open (interactive) node
+Sinteractive #srun --partition=gpu --gres=gpu:1 --cpus-per-task=8 --mem=32G --time=04:00:00 --pty bash
+hostname #name of the node, to exit node type "exit"
+free -h #ram info
+nvidia-smi #if gpu, gpu info
+
+#load python
+module load gcc python/3.11
+
+#open jupyter-lab
+cd ${WORK}
+jupyter-lab
+
+#SSH tunnel: type in terminal (outside of HPC); ADAPT node (dna064) and port (8889) according to what is written in hpc shell
+ssh -n -N -J ahauser6@curnagl.dcsr.unil.ch -L 8889:localhost:8889 ahauser6@dna064
+# close the tunnel with Ctrl-C (in terminal outside of HPC)
+# close the jupyter-lab with Ctrl-C (in HPC shell)
+
+
+ssh -n -N -J ahauser6@curnagl.dcsr.unil.ch -L 8888:localhost:8888 ahauser6@dnagpu002
