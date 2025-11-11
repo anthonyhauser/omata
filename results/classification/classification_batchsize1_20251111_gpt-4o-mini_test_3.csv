@@ -1,0 +1,22 @@
+img_names,tobacco_product,type,main_elements,true_outcomes
+36.jpg,Yes,"cigarette advertising, tobacco brand logo","['person', 'landscape', 'text']",Yes
+mathilde-langevin-ilsiTpdYTxw-unsplash.jpg,No,NA,"['hand', 'match', 'candle', 'jar']",No
+instagram_altoids2.png,No,NA,"['person', 'Altoids tin', 'street', 'house', 'car']",No
+instagram_lacasa.png,Yes,cigar,"['bar', 'bottles', 'stools', 'lighting']",No
+renee-sera-ILzfCh_1N5M-unsplash.jpg,No,NA,"['person', 'orange', 'hat', 'shirt']",No
+22.PNG,No,NA,"['person', 'beach', 'water', 'bikini', 'sun']",Yes
+31.jpg,Yes,vape,"['vape device', 'hand', 'nails']",Yes
+38.png,Yes,vape,"vape device, blue background",Yes
+27.png,Yes,tobacco brand logo,"['people', 'stage', 'fans', 'outdoor setting']",Yes
+elbert-lora-38spGSpPTpE-unsplash.jpg,No,NA,"['hand', 'pen', 'paper', 'table', 'person']",No
+instagram_themichaelevins.png,No,NA,"['smartphone', 'watch', 'iPad', 'pencil', 'color checker', 'coins', 'notepad']",No
+brett-jordan-rJVflgqasr4-unsplash.jpg,No,NA,"['Ibuprofen box', 'capsules']",No
+instagram_pockycollector.png,No,NA,"['strawberry', 'snack packaging', 'text']",No
+2-bro-s-media-LfUXV5gMDfs-unsplash.jpg,Yes,cigarette smoke,"matchstick, smoke",No
+james-adams-Ry26kbchzqc-unsplash.jpg,No,NA,"['person', 'smoke', 'landscape']",No
+13.jpg,Yes,cigarette packs,"['cigarette packs', 'snacks', 'advertisement', 'counter']",Yes
+8.jpg,Yes,tobacco brand logo,"['people', 'snow', 'sign', 'backpacks']",Yes
+zibik-_mAhvYIQqPY-unsplash.jpg,No,NA,"['person', 'food', 'straw', 'cup', 'background']",No
+41.png,Yes,vape,"['vape device', 'text', 'bottle']",Yes
+18.jpg,Yes,"vape, e-cigarette advertising","['advertisement', 'vape device', 'text', 'trees', 'street']",Yes
+instagram_canadianlungassociation.png,No,NA,"['person', 'inhaler']",No

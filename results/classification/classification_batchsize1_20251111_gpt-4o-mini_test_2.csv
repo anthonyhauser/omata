@@ -1,0 +1,22 @@
+img_names,tobacco_product,type,main_elements,true_outcomes
+41.jpg,No,NA,"['person', 'text', 'magazine']",Yes
+rajat-verma-CrGLasofdQY-unsplash.jpg,No,NA,"['candle', 'light', 'bokeh']",No
+12.png,No,NA,"['newspaper', 'bottles', 'chopsticks', 'food bowls', 'table']",Yes
+instagram_ichikoichie_incense.png,No,NA,"['incense holder', 'incense stick', 'glass plate', 'table surface']",No
+instagram_yourcupofstyle.png,No,NA,"['pillows', 'coffee cup', 'plate', 'laptop', 'spoon', 'lipstick', 'Chanel box', 'comb']",No
+21.jpg,Yes,hookah,"['hookah', 'smoke', 'table', 'bottle', 'phone']",Yes
+35.png,Yes,vape,"['person', 'glass', 'table', 'guitar', '2 people in background']",Yes
+instagram_burtsbees.png,No,NA,"['lip balm', 'ingredients list', ""person's face"", 'paper']",No
+ehimetalor-akhere-unuabona-fateqKwVihs-unsplash.jpg,No,NA,"['hand', 'police officer', 'writing on hand', 'small container']",No
+30.png,Yes,vape,"['2 people', 'car', 'vape pen']",Yes
+38.jpg,Yes,"tobacco brand logo, e-cigarette","['people', 'suitcases', 'building']",Yes
+marta-zuborski-A5X487eiYIU-unsplash.jpg,No,NA,"['person', 'harmonica', 'hat']",No
+7.jpg,Yes,"tobacco brand logo, cigarette advertising","['people', 'tents', 'fence', 'photographs', 'trees']",Yes
+17.JPG,Yes,tobacco brand logo,"['bar', 'signs', 'ticket', 'vending machine']",Yes
+26.png,No,NA,"['person', 'car', 'interior']",Yes
+vitaly-gariev-K9Klfora_JA-unsplash.jpg,No,NA,"['person', 'desk', 'laptop', 'notebook', 'pens', 'mug', 'phone']",No
+instagram_altoids1.png,No,NA,"['candy tins', 'text', 'colors']",No
+astrid-kennedy-eZ8Nef0DaQU-unsplash.jpg,No,NA,"['person', 'glasses', 'candy']",No
+james-adams-dfoK0qs1AsE-unsplash.jpg,Yes,vape,"['hand', 'vape device', 'colored smoke']",No
+instagram_theguidedsoulmedium.png,No,NA,"['incense stick', 'smoke', 'background']",No
+instagram_pinsbylove.png,No,NA,"['cup', 'steam', 'books', 'window']",No
