@@ -1,0 +1,22 @@
+img_names,tobacco_product,type,main_elements,tobacco_product_true
+12.png,No,NA,"['newspaper', 'bottles', 'chopsticks', 'food bowls', 'table']",Yes
+17.JPG,Yes,tobacco brand logo,"['sign', 'ticket', 'vending machine', 'wooden wall']",Yes
+35.png,Yes,vape,"['person', 'glass', 'chair', 'tattoo', 'guitarists']",Yes
+7.jpg,Yes,"tobacco brand logo, cigarette advertising","['people', 'tents', 'fence', 'photographs', 'trees']",Yes
+21.jpg,Yes,hookah,"['hookah', 'smoke', 'table', 'bottle', 'phone']",Yes
+30.png,Yes,vape,"['2 people', 'car', 'vape pen']",Yes
+james-adams-dfoK0qs1AsE-unsplash.jpg,Yes,vape,"['hand', 'smoke', 'colorful smoke']",No
+26.png,No,NA,"['person', 'car', 'interior']",Yes
+vitaly-gariev-K9Klfora_JA-unsplash.jpg,No,NA,"['person', 'desk', 'laptop', 'notebook', 'pens', 'mug', 'phone']",No
+instagram_yourcupofstyle.png,No,NA,"['couch', 'pillows', 'coffee cup', 'plate', 'spoon', 'lipstick', 'Chanel box', 'laptop', 'comb']",No
+ehimetalor-akhere-unuabona-fateqKwVihs-unsplash.jpg,No,NA,"['hand', 'police officer', 'writing on hand', 'small container']",No
+instagram_hanirahmalia.png,No,NA,"['inhalers', 'table']",No
+instagram_pinsbylove.png,No,NA,"['cup', 'steam', 'books', 'window']",No
+38.jpg,Yes,"tobacco brand logo, cigarette advertising","['people', 'suitcases', 'building']",Yes
+instagram_theguidedsoulmedium.png,No,NA,"['incense stick', 'smoke', 'background']",No
+rajat-verma-CrGLasofdQY-unsplash.jpg,No,NA,"['candle', 'light', 'bokeh']",No
+41.jpg,No,NA,"['person', 'text', 'advertisement']",Yes
+astrid-kennedy-eZ8Nef0DaQU-unsplash.jpg,No,NA,"['person', 'glasses', 'candy']",No
+instagram_airpodscases.png,Yes,"tobacco brand logo, tobacco slogan","['airpods', 'tobacco pack', 'table']",No
+marta-zuborski-A5X487eiYIU-unsplash.jpg,No,NA,"['person', 'harmonica', 'hat']",No
+instagram_becandlesaikung.png,No,NA,"['incense stick', 'stones', 'leaf']",No

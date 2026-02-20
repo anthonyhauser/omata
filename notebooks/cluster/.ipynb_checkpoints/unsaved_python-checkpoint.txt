@@ -1,0 +1,97 @@
+import sys
+import psutil
+
+# Total RAM in GB
+total_ram = psutil.virtual_memory().total / (1024**3)
+print(f"Total RAM: {total_ram:.2f} GB")
+
+
+
+#install packages
+sys.executable
+import sys
+!{sys.executable} -m pip install --upgrade pip
+!{sys.executable} -m pip install torch==2.9.0+cu130 --index-url https://download.pytorch.org/whl/cu130
+!{sys.executable} -m pip install transformers
+!{sys.executable} -m pip install torchvision==0.18.1
+
+
+# Install PyTorch + CUDA 13 (matching your GPU driver)
+!{sys.executable} -m pip install --upgrade pip
+!{sys.executable} -m pip install torchvision==0.18.1
+!{sys.executable} -m pip install torch==2.9.0+cu130 torchvision==0.18.1+cu130 torchaudio==2.0.2+cu130 --extra-index-url https://download.pytorch.org/whl/cu130
+
+
+!{sys.executable} -m pip install torch==2.9.0+cu130 torchvision==0.18.1 torchaudio==2.0.1 --index-url https://download.pytorch.org/whl/cu130
+
+
+
+url = "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/p-blog/candy.JPG"
+response = requests.get(url)
+image0 = Image.open(BytesIO(response.content)).convert("RGB")
+
+width, height = image0.size
+print("Original size:", width, "x", height)
+
+max_size = 2000
+image=image0.copy()
+image.thumbnail((max_size, max_size))
+image0.show()
+image.show()
+
+
+
+#url = "https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/p-blog/candy.JPG"
+url = "https://i.postimg.cc/137s1p4b/1.jpg"
+response = requests.get(url)
+image0 = Image.open(BytesIO(response.content)).convert("RGB")
+
+width, height = image0.size
+print("Original size:", width, "x", height)
+
+max_size = 4000
+image=image0.copy()
+image.thumbnail((max_size, max_size))
+image0.show()
+image.show()
+
+
+
+model_name = "Qwen/Qwen2-VL-2B-Instruct"
+processor = AutoProcessor.from_pretrained(model_name)
+model = AutoModelForVision2Seq.from_pretrained(model_name)
+
+
+
+messages = [
+    {
+        "role": "user",
+        "content": [
+            {"type": "image", "image": image0},  # pass PIL image directly
+            {"type": "text", "text": """Describe the image"""}#"What animal is on the candy"
+        ]
+    },
+]
+
+inputs = processor.apply_chat_template(
+	messages,
+	add_generation_prompt=True,
+	tokenize=True,
+	return_dict=True,
+	return_tensors="pt",
+).to(model.device)
+
+
+# 5. Inference
+with torch.no_grad():
+    outputs = model.generate(**inputs, max_new_tokens=2000)
+
+result = processor.decode(outputs[0], skip_special_tokens=True)
+
+
+if "assistant" in result:
+    assistant_text = result.split("assistant")[-1].strip()
+else:
+    assistant_text = result.strip()
+
+print(assistant_text)

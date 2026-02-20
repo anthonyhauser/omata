@@ -1,0 +1,12 @@
+/* Let tables only take the width they need */
+table.dataframe {
+  width: auto !important;        /* natural width */
+  max-width: 100%;               /* never overflow container */
+  table-layout: auto;            /* auto column sizing */
+}
+
+/* Optional: wrap long text in cells */
+table.dataframe td {
+  white-space: normal;
+  word-wrap: break-word;
+}

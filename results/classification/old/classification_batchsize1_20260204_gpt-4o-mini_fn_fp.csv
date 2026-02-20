@@ -1,0 +1,15 @@
+img_names,tobacco_product,type,main_elements,tobacco_product_true
+24.png,No,NA,"['person', 'blue light', 'sitting', 'hands covering face']",Yes
+41.jpg,No,NA,"person, text, magazine layout",Yes
+12.png,No,NA,"['newspaper', 'bottles', 'noodles', 'chopsticks', 'table']",Yes
+mehrab-zahedbeigi-EaBqqyOAuqQ-unsplash.jpg,Yes,person smoking,"['man', 'glasses', 'trees', 'street']",No
+11.jpg,Yes,cigarette packs,"['person', 'dog', 'table', 'chair', 'tissue box', 'cup']",Yes
+instagram_lacasa.png,Yes,cigar,"['bar', 'bottles', 'stools', 'lighting']",No
+10.jpg,No,NA,"['box', 'slate', 'plants']",Yes
+ike-ellyana-oOs72WMT5sA-unsplash.jpg,Yes,"person smoking, cigarette smoke","['person', 'smoke']",No
+instagram_airpodscases.png,Yes,"tobacco brand logo, cigarette advertising","['airpods', 'tobacco pack', 'table']",No
+26.png,No,NA,"['person', 'car', 'interior']",Yes
+6.jpg,No,NA,"['two people', 'two cars', 'underpass', 'graffiti']",Yes
+22.PNG,No,NA,"['person', 'beach', 'water', 'bikini', 'sun']",Yes
+james-adams-dfoK0qs1AsE-unsplash.jpg,Yes,vape,"['hand', 'smoke', 'colorful smoke']",No
+2-bro-s-media-LfUXV5gMDfs-unsplash.jpg,Yes,cigarette smoke,"matchstick, smoke",No

@@ -1,0 +1,22 @@
+img_names,tobacco_product,type,main_elements,tobacco_product_true
+19.jpg,Yes,"cigarette packs, tobacco brand logo","['cigarette pack', 'tobacco', 'text']",Yes
+instagram_altoids2.png,No,NA,"['person', 'Altoids tin', 'outdoor setting', 'car', 'house']",No
+9.jpg,Yes,snus,"['person', 'mountains', 'sunny sky', 'can']",Yes
+d-sarver-v-DjFXZx2DE-unsplash.jpg,No,NA,"['person', 'hat', 'feathers', 'clothing', 'background people']",No
+28.png,Yes,vape,"['person', 'pineapple', 'smoke']",Yes
+kalisa-veer-PyfOOdJGLd0-unsplash.jpg,No,NA,"['candle', 'candle holder', 'green background']",No
+instagram_canadianlungassociation.png,No,NA,"['person', 'inhaler']",No
+instagram_pockycollector2.png,No,NA,"['Pocky sticks', 'almonds', 'packaging', 'text']",No
+42.png,Yes,"cigarette, e-cigarette, tobacco advertising","['cigarette', 'e-cigarette', 'advertisement', 'text']",Yes
+36.PNG,Yes,"vape, tobacco advertising","['vape device', 'tobacco packs', 'text']",Yes
+23.PNG,Yes,vape,"['people', 'party', 'lights']",Yes
+instagram_thisisgentlehabits.png,No,NA,"['incense sticks', 'incense holder', 'box']",No
+39.jpg,Yes,"cigarette advertising, tobacco brand logo","['two people', 'landscape', 'text']",Yes
+h-ng-nguy-n-99Kd2vWuXZs-unsplash.jpg,No,NA,"['person', 'lipstick', 'earrings', 'black dress']",No
+14.jpg,Yes,cigarette packs,"['croissants', 'fork', 'newspaper', 'glass', 'tea']",Yes
+mehrab-zahedbeigi-EaBqqyOAuqQ-unsplash.jpg,Yes,person smoking,"['person', 'glasses', 'trees', 'street']",No
+sergey-vinogradov-ohygaOxZaaE-unsplash.jpg,No,NA,"['person', 'fish', 'sweater']",No
+1.jpg,Yes,cigarette packs,"['coffee cup', 'lighter', 'oranges', 'container']",Yes
+a-l-6ElnH17iD-8-unsplash.jpg,No,NA,"['candles', 'hand', 'leaves']",No
+instagram_luisakempke.png,No,NA,"['coffee cups', 'croissant', 'gloves', 'earphones', 'handbag', 'table']",No
+32.png,Yes,cigarette filters,"['hand', 'cigarette filters', 'blue and white fabric']",Yes
