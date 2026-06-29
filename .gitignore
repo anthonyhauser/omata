@@ -1,1 +1,11 @@
 main1.ipynb
+
+# Modèles ONNX téléchargés (détection de visage) — régénérables, non commités
+data_utils/models/
+
+# Images floutées (sorties régénérables)
+results/blurred_images/
+
+# Caches Python
+__pycache__/
+*.pyc
