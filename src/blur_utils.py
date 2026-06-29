@@ -7,15 +7,15 @@ sent to any external service).
 
 Two face detectors are provided:
 
-- CenterFace (ONNX model, run through ``onnxruntime``)
+- CenterFace (ONNX model, run through OpenCV's ``cv2.dnn``)
 - YuNet (ONNX model, run through OpenCV's ``cv2.FaceDetectorYN``)
 
 The blurring itself is shared between both detectors: a Gaussian blur (with an
 optional elliptical mask) is applied to every face bounding box returned by the
 detector.
 
-Dependencies: ``opencv-python``, ``onnxruntime``, ``numpy`` (on top of Pillow,
-already used in the project).
+Dependencies: ``opencv-python``, ``numpy`` (on top of Pillow, already used in
+the project).
 
 Usage example
 -------------
@@ -142,7 +142,7 @@ def filter_paths_by_stem(paths, stems):
 
 
 # =====================================================================
-# Detector 1: CenterFace (ONNX via onnxruntime)
+# Detector 1: CenterFace (ONNX via OpenCV cv2.dnn)
 # =====================================================================
 
 class CenterFace:
@@ -154,16 +154,15 @@ class CenterFace:
     """
 
     def __init__(self, model_path=None, landmarks: bool = True):
-        import onnxruntime  # local import so onnxruntime is only required when CenterFace is used
-
         if model_path is None:
             model_path = get_centerface_model()
         self.landmarks = landmarks
-        self.session = onnxruntime.InferenceSession(
-            str(model_path), providers=["CPUExecutionProvider"]
-        )
-        self.input_name = self.session.get_inputs()[0].name
-        self.output_names = [o.name for o in self.session.get_outputs()]
+        # Run the model through OpenCV's DNN module rather than onnxruntime:
+        # the published centerface.onnx declares a fixed input shape, which
+        # onnxruntime enforces, whereas OpenCV reshapes the network to the
+        # actual blob size on every call (so arbitrary image sizes work).
+        self.net = cv2.dnn.readNetFromONNX(str(model_path))
+        self.output_names = self.net.getUnconnectedOutLayersNames()
         self.img_h_new = self.img_w_new = 0
         self.scale_h = self.scale_w = 1.0
 
@@ -196,7 +195,11 @@ class CenterFace:
             swapRB=True,
             crop=False,
         )
-        heatmap, scale, offset, lms = self.session.run(self.output_names, {self.input_name: blob})
+        self.net.setInput(blob)
+        outputs = self.net.forward(self.output_names)
+        # Identify outputs by channel count rather than by name (names differ
+        # between model exports): heatmap=1, scale=2, offset=2, landmarks=10.
+        heatmap, scale, offset, lms = self._sort_outputs(outputs)
         dets, lms = self._decode(
             heatmap, scale, offset, lms, (self.img_h_new, self.img_w_new), threshold
         )
@@ -211,6 +214,24 @@ class CenterFace:
             dets = np.empty(shape=[0, 5], dtype=np.float32)
             lms = np.empty(shape=[0, 10], dtype=np.float32)
         return (dets, lms) if self.landmarks else dets
+
+    @staticmethod
+    def _sort_outputs(outputs):
+        # Map the four network outputs to (heatmap, scale, offset, landmarks)
+        # using their channel count. The two 2-channel maps (scale, offset)
+        # keep their network order, which is scale first then offset.
+        heatmap = lms = None
+        two_channel = []
+        for o in outputs:
+            channels = o.shape[1]
+            if channels == 1:
+                heatmap = o
+            elif channels == 10:
+                lms = o
+            elif channels == 2:
+                two_channel.append(o)
+        scale, offset = two_channel[0], two_channel[1]
+        return heatmap, scale, offset, lms
 
     def _decode(self, heatmap, scale, offset, landmark, size, threshold):
         # Decode the network outputs into bounding boxes above the threshold.
